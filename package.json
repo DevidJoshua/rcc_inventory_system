@@ -1,0 +1,27 @@
+{
+  "name": "rcc_inventory_system",
+  "version": "1.0.0",
+  "description": "inventory system for a church",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevidJoshua/rcc_inventory_system.git"
+  },
+  "keywords": [
+    "inventory",
+    "church"
+  ],
+  "author": "Devid Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevidJoshua/rcc_inventory_system/issues"
+  },
+  "homepage": "https://github.com/DevidJoshua/rcc_inventory_system#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.17",
+    "typescript": "^4.9.4"
+  }
+}
